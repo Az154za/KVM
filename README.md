@@ -16,4 +16,6 @@ Well the purpose of this project is to have access to a pc I mean you can switch
 
 I used home assistant to interact with it I gave it setting 10s in angle degree of  about 30 degrees when turning the pc off and 1s of the same angle when turning on 
 
+<img width="1592" height="633" alt="HA" src="https://github.com/user-attachments/assets/fc7294e1-8eba-4397-906d-a96e10b521f3" />
+
 I hope you like the project an advice to improve the project is welcomed 
